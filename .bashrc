@@ -11,4 +11,4 @@ export PATH='~/Library/Haskell/bin':$PATH #For OSX
 #export PATH='~/.cabal/bin':$PATH #For Linux
 
 #COMMAND LINE LOOKS
-export PS1="\[\e[0;36m\][\u@\h \[\e[1;34m\]\w] \[\e[1;35m\]$ \[\e[m\]"
+export PS1="\[\e[0;36m\][\u@\h \[\e[0;34m\]\w] \[\e[0;37m\]\j\[\e[1;35m\]$ \[\e[m\]"
