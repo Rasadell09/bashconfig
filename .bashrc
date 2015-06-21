@@ -10,6 +10,7 @@ alias os='ssh liyunf@os-class.engr.oregonstate.edu'
 alias flip='ssh liyunf@flip.engr.oregonstate.edu'
 alias nome='ssh liyunf@nome.eecs.oregonstate.edu'
 alias star='ssh liyunf@star.eecs.oregonstate.edu'
+alias e='emacs'
 
 # The part bellow is for special configs of particular tools
 
