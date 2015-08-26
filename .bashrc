@@ -1,11 +1,11 @@
 # LS COLOR CONFIG------------------------------------------------------------------
-alias ls='ls -al -G'              #For OSX
+alias ls='ls -al -GFh'              #For OSX
 #alias ls='ls -al --color=auto'   #For Linux
 
 # PROMPT COLOR CONFIG---------------------------------------------------------------
 export PS1="\[\e[0;32m\][\u@\h \[\e[0;31m\]\w\[\e[0;32m\]] \[\e[m\]"
 export CLICOLOR=1
-export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
+export LSCOLORS=GxFxCxDxBxegedabagaced
 
 # SSH ALIAS CONFIG-----------------------------------------------------------------
 alias os='ssh liyunf@os-class.engr.oregonstate.edu'
